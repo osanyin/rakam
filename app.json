@@ -15,8 +15,7 @@
     "crm"
   ],
   "addons": [
-    "heroku-postgresql:hobby-dev",
-    "papertrail:choklad"
+    "heroku-postgresql:hobby-dev"
   ],
   "env": {
     "LOCK_KEY": {
